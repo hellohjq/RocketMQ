@@ -1,4 +1,4 @@
-package com.alibaba.rocketmq.example.operation;
+package com.alibaba.rocketmq.client;
 
 import com.alibaba.rocketmq.client.exception.MQClientException;
 import com.alibaba.rocketmq.client.producer.DefaultMQProducer;
